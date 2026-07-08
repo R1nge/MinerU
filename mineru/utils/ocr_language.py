@@ -1,7 +1,7 @@
 # Copyright (c) Opendatalab. All rights reserved.
 
 PUBLIC_OCR_LANGUAGES = (
-    "ch",
+    "east_slavic",
     "ch_server",
     "korean",
     "ta",
@@ -10,7 +10,7 @@ PUBLIC_OCR_LANGUAGES = (
     "th",
     "el",
     "arabic",
-    "east_slavic",
+    "ch",
     "cyrillic",
     "devanagari",
 )
